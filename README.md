@@ -1,8 +1,9 @@
-# kafka-python
-Kafka
-
+## kafka-python
+```
 Change the ip address in producer.py to local ip adress
-
-Command
-
+```
+### Command
+```
 docker-compose up
+```
+
